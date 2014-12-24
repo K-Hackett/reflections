@@ -13,3 +13,7 @@ Maybe you can double check it's differences against the most recent commit. If i
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When testing out different ideas vs your main one. Every logical commit should go towards perfecting your project but if you have a sepearate idea it's good to make a separate branch to see how they work in comparison and then you can easily switch back.
+
+How do the diagrams help you visualize the branch structure?
+
+They help you follow the branches with better understanding. You can easily see what will be lost and where each branch leads to.
