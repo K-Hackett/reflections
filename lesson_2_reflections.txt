@@ -17,3 +17,7 @@ When testing out different ideas vs your main one. Every logical commit should g
 How do the diagrams help you visualize the branch structure?
 
 They help you follow the branches with better understanding. You can easily see what will be lost and where each branch leads to.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is a branch that includes the log history of the merged branches. All removals from both branches will be removed in the merged branch and all additions from both will be there in the merged branch.
