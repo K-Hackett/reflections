@@ -21,3 +21,7 @@ They help you follow the branches with better understanding. You can easily see 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is a branch that includes the log history of the merged branches. All removals from both branches will be removed in the merged branch and all additions from both will be there in the merged branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+When it comes to automatic merging it can't read logic so say you have the same function in different places it'll come up as a conflict. Where if you're merging manually you must take out everything and add everything on your own which is time consuming.
