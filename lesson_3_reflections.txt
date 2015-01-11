@@ -5,3 +5,7 @@ I'd want to use a remote repository to back up my local repository. I'd also go 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 You may want to create a different branch for recent changes. Git can't think for you so it's better to do it manually.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Use forks when you don't have permission to change a repository or when you're continuing work on another repository on your own. Clones when going between remote and local. Branches when you got separate ideas.
