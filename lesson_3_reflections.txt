@@ -13,3 +13,7 @@ Use forks when you don't have permission to change a repository or when you're c
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can continue the work or if you want the remote to be up to date you can just push when convenient.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I'd use cloud services where I can share like Google Drive, Docs or OneDrive or OneNote. It'd be harder b/c it'd be hard to keep track of changes between multiple contributors.
