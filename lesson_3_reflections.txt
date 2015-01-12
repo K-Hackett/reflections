@@ -9,3 +9,7 @@ You may want to create a different branch for recent changes. Git can't think fo
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Use forks when you don't have permission to change a repository or when you're continuing work on another repository on your own. Clones when going between remote and local. Branches when you got separate ideas.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can continue the work or if you want the remote to be up to date you can just push when convenient.
