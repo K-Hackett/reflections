@@ -17,3 +17,7 @@ You can continue the work or if you want the remote to be up to date you can jus
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I'd use cloud services where I can share like Google Drive, Docs or OneDrive or OneNote. It'd be harder b/c it'd be hard to keep track of changes between multiple contributors.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I have different ideas os separate ideas that I'd like to contribute. It's definitely harder than just keeping everything in master.
